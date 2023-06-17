@@ -1,0 +1,3 @@
+创建git上传命令时，需要两个命令同时运行
+git config --global user.email "roseareloverosie@gmail.com"
+git config --global user.name "rose"
